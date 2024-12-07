@@ -2,7 +2,13 @@
 
 A microservices-based backend architecture built with TypeScript and Express.js. The system consists of multiple independent services that work together to provide a complete solution.
 
-## Architecture Overview 
+## Architecture Overview
+- Microservices architecture
+- Will be deployed on AWS
+- Will be using Kafka for event-based communication
+- Built with TypeScript and Express.js
+- Using PostgreSQL for database
+- Using Docker for containerization
 
 ## Services
 
