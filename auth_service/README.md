@@ -12,5 +12,3 @@ A robust authentication service built with TypeScript, Express.js, and PostgreSQ
 - Input validation using Zod
 - TypeScript for type safety
 - PostgreSQL for data persistence
-
-## Project Structure 
