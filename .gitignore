@@ -31,6 +31,8 @@
 **/tmp/
 **/temp/
 
+**/db-data/
+
 # Service specific
 auth_service/.gitignore
 api_gateway/.gitignore
